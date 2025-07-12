@@ -1,0 +1,12 @@
+[
+    {
+        "char1" : {
+            "sprite_path" : "base\\char1\\char1.jpg"
+        }
+    },
+    {
+        "char2" : {
+            "sprite_path" : "base\\char2\\char2.jpg"
+        }
+    }
+]
